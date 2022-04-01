@@ -10,9 +10,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>NKONT</title>
-        <meta name="description" content="NKONT" />
-        <link rel="icon" href="/favicon.ico" />
+        <title>NKont</title>
       </Head>
 
       <main>
