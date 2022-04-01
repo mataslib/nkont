@@ -26,6 +26,7 @@ const Home: NextPage = () => {
 const KontImage = () => {
   const nthWeek = getWeek(new Date(), {
     weekStartsOn: 1,
+    firstWeekContainsDate: 4
   });
   const weekString = nthWeek % 2 === 0 ? 'even' : 'odd';
   console.log(`týden: ${nthWeek} - ${weekString}`);
