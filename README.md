@@ -1,4 +1,4 @@
-# Nextjs PWA Webík ukazující kde se zrovna nachází kontejner na bioodpad
+# Nextjs PWA Webík ukazující kde se zrovna nachází kontejner na bioodpad v Netolicích
 
 https://nkont.vercel.app/
 
