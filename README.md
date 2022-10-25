@@ -1,4 +1,4 @@
-# Webík ukazující kde se nachází kontejner na bioodpad
+# Webík ukazující kde se zrovna nachází kontejner na bioodpad
 
 https://nkont.vercel.app/
 
